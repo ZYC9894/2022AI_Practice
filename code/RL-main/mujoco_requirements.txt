@@ -1,0 +1,7 @@
+gym==0.17.2
+mujoco-py==2.0.2.11
+numpy==1.23.4
+tensorboard==2.3.0
+tensorboardX==2.5.1
+torch==1.12.1
+wandb==0.13.4
